@@ -43,4 +43,4 @@ Other than improving my CSS skills and understanding of flexbox without trial an
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/bennyfreemantle)
+- Frontend Mentor - [@bennyfreemantle](https://www.frontendmentor.io/profile/bennyfreemantle)
