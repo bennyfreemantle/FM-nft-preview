@@ -90,8 +90,16 @@ p {
 }
 
 .nft_price {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
   p {
     color: hsl(178, 100%, 50%);
+    margin-left: 7px;
+  }
+  img {
+    width: 20px;
+    height: 20px;
   }
 }
 

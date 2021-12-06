@@ -85,8 +85,18 @@ p {
   justify-content: space-between;
 }
 
+.nft_price {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
 .nft_price p {
   color: #00fff7;
+  margin-left: 7px;
+}
+.nft_price img {
+  width: 20px;
+  height: 20px;
 }
 
 .nft_time_remaining {
